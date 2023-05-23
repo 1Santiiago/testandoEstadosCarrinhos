@@ -1,0 +1,15 @@
+form {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  flex: 1;
+
+  align-items: center;
+}
+
+input {
+  padding-left: 3px;
+  outline: 0;
+
+  width: 65%;
+}
